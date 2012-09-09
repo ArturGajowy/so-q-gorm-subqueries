@@ -1,0 +1,16 @@
+# IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Compiled sources
+target/stacktrace.log
+
+#logs
+*.log
